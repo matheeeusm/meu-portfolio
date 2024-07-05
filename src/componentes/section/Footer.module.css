@@ -1,0 +1,26 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.footer ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+
+.footer a{
+    color: aliceblue !important;
+}
+
+.footer li{
+    margin: 15px;
+
+}
+
+.footer p{
+    margin: 25px;
+    margin-top: 40px;
+}
